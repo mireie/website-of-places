@@ -1,0 +1,14 @@
+body {
+  background-color: #F0EAEE;
+}
+.entry, .output {
+  border-radius: 1rem;
+  padding:1rem;
+}
+.entry {
+  background-color: #A58461;
+}
+.output {
+  background-color: #22B0A1;
+  display:none;
+}
